@@ -41,7 +41,7 @@ This ensures learning happens before evaluation.
 
 ## 📽️ Demo
 A complete working demo of DualMind is available here:  
-👉 
+👉 https://drive.google.com/file/d/12N7iorayaSTEVMTJtYCXYGcZf1e60HGz/view?usp=sharing
 
 ---
 
